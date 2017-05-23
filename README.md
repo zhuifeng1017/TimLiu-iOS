@@ -675,6 +675,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 数据存储@
 
+* [realm-cocoa](https://github.com/realm/realm-cocoa) 一个号称要代替Core Data & SQLite的用于移动端的数据库，非常不错👍👍 ，同时支持Swift.
 * [CoreModel](https://github.com/CharlinFeng/CoreModel) Replace CoreData
 * [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) 专业的数据库存储解决方案
 * [JQFMDB](https://github.com/gaojunquan/JQFMDB) FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary
@@ -2014,3 +2015,24 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [说明]( ) 此库是完全开源收集整理，服务于广大iOS开发工作者的开源集合资料库，欢迎大家踊跃贡献.
 * [awesome-github](https://github.com/AntBranch/awesome-github) A curated list of awesome GitHub guides, articles, sites, tools, projects and resources. 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+
+
+
+#### 我用到的@
+* [CocoaLumberjack]() 日志输出
+* [KVOController]() KVO
+* [IQKeyboardManager]() 键盘调整
+* [Aspects](https://github.com/steipete/Aspects) method swizzling
+* [StreamingKit](https://github.com/tumtumtum/StreamingKit) A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS
+* [CWStatusBarNotification]() show Notification
+* [TSMessages](https://github.com/KrauseFx/TSMessages) Show little notification views on the top of the screen
+* [HJCornerRadius]() 一行代码搞定图片圆角
+* [TTTAttributedLabel]() 属性字符串lable
+
+
+
+
+
+
+
+
